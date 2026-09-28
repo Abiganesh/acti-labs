@@ -78,16 +78,11 @@ button { font: inherit; }
   text-decoration: none;
 }
 .logo b { color: var(--signal); font-weight: 700; }
-.logo-mark {
-  display: grid;
-  grid-template-columns: repeat(2, 6px);
-  grid-template-rows: repeat(2, 6px);
-  gap: 3px;
-  transform: rotate(45deg);
+.brand-logo {
+  width: 42px;
+  height: 42px;
+  object-fit: cover;
 }
-.logo-mark i { background: currentColor; }
-.logo-mark i:nth-child(2),
-.logo-mark i:nth-child(3) { background: var(--signal); }
 .site-nav { display: flex; align-items: center; gap: 29px; }
 .site-nav a {
   font-size: 12px;
