@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0a0b0c"/>
+  <g opacity=".16" stroke="#faf9f4">
+    <path d="M0 90h1200M0 180h1200M0 270h1200M0 360h1200M0 450h1200M0 540h1200"/>
+    <path d="M100 0v630M200 0v630M300 0v630M400 0v630M500 0v630M600 0v630M700 0v630M800 0v630M900 0v630M1000 0v630M1100 0v630"/>
+  </g>
+  <circle cx="930" cy="315" r="205" fill="none" stroke="#faf9f4" opacity=".14"/>
+  <circle cx="930" cy="315" r="145" fill="none" stroke="#ff4f28" opacity=".35"/>
+  <circle cx="930" cy="315" r="8" fill="#d8ff45"/>
+  <g transform="translate(82 74)">
+    <g transform="translate(16 16) rotate(45) translate(-16 -16)">
+      <rect width="13" height="13" fill="#faf9f4"/>
+      <rect x="19" width="13" height="13" fill="#ff4f28"/>
+      <rect y="19" width="13" height="13" fill="#ff4f28"/>
+      <rect x="19" y="19" width="13" height="13" fill="#faf9f4"/>
+    </g>
+    <text x="50" y="24" fill="#faf9f4" font-family="Arial, sans-serif" font-size="22" font-weight="700">ACTI</text>
+    <text x="106" y="24" fill="#ff4f28" font-family="Arial, sans-serif" font-size="22" font-weight="700">Labs</text>
+  </g>
+  <text x="82" y="270" fill="#faf9f4" font-family="Arial, sans-serif" font-size="82" font-weight="600" letter-spacing="-5">Find the gap.</text>
+  <text x="82" y="365" fill="#faf9f4" font-family="Arial, sans-serif" font-size="82" font-weight="600" letter-spacing="-5">Build the <tspan fill="#ff4f28" font-family="Georgia, serif" font-style="italic">idea.</tspan></text>
+  <text x="82" y="475" fill="#8e8e88" font-family="Arial, sans-serif" font-size="24">Intelligence for better advertising.</text>
+</svg>

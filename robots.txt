@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abiganesh.github.io/acti-labs/sitemap.xml
