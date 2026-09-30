@@ -23,5 +23,5 @@ whenever `main` is updated.
 3. In repository settings, open **Pages** and set the source to **GitHub Actions**.
 4. The site will be available at `https://abiganesh.github.io/acti-labs/`.
 
-The private Ad Intelligence Pipeline is intentionally excluded from this public
-site and must remain in a separate private repository.
+This repository contains only the public static website. Internal systems,
+client materials, research, and proprietary operating details are not included.
